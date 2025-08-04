@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+👨‍💻🛠️ **My Core Languages**
+
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org/)
+
 📫🔗 **Contact Me**
 
 Feel free to reach out if you'd like to connect or collaborate on something interesting!
