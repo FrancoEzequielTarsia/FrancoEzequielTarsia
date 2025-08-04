@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm Franco Ezequiel Tarsia — a 21-year-old Systems Engineering student currently in my third year at UTN FRBA.
+
+I'm passionate about learning, researching, and constantly expanding my understanding of technology and problem-solving. I enjoy facing challenges that allow me to grow both personally and professionally, and I believe that curiosity and persistence are key tools.
+
 
 ## 👨‍💻🛠️ My Core Languages
 
