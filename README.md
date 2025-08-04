@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+📫🔗 **Contact Me**
+
+Feel free to reach out if you'd like to connect or collaborate on something interesting!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco%20Ezequiel%20Tarsia-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/franco-ezequiel-tarsia-b8b119280/)  
+[![Email](https://img.shields.io/badge/Email-ftarsia%40frba.utn.edu.ar-red?style=flat&logo=gmail)](mailto:ftarsia@frba.utn.edu.ar)
 <!--
 **FrancoEzequielTarsia/FrancoEzequielTarsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
